@@ -1,3 +1,10 @@
+![image](https://github.com/user-attachments/assets/6d835ddb-5c80-492a-be94-3b7cf4ad3290)
+
+
+
+
+
+
 # 🧾 Sales Performance Analysis using SQL
 
 This project demonstrates my intermediate SQL skills by analyzing a fictional company's regional sales performance using mock datasets for customers, products, and sales.
